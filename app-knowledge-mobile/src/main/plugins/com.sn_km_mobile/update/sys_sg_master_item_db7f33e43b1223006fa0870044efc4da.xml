@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+  <sys_sg_master_item action="INSERT_OR_UPDATE">
+    <condition/>
+    <condition_order/>
+    <item_view display_value="Most Viewed item view">5b7f73e43b1223006fa0870044efc413</item_view>
+    <name>Master Item</name>
+    <screen display_value="Most Viewed">5b7f73e43b1223006fa0870044efc417</screen>
+    <sys_class_name>sys_sg_master_item</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2018-12-07 22:50:38</sys_created_on>
+    <sys_id>db7f33e43b1223006fa0870044efc4da</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_name>Master Item</sys_name>
+    <sys_package display_value="Knowledge Management - Mobile" source="sn_km_mobile">e1717f543b1223006fa0870044efc44a</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Knowledge Management - Mobile">e1717f543b1223006fa0870044efc44a</sys_scope>
+    <sys_update_name>sys_sg_master_item_db7f33e43b1223006fa0870044efc4da</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2018-12-07 22:50:38</sys_updated_on>
+    <table>v_kb_most_viewed</table>
+  </sys_sg_master_item>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
+  <sys_sg_folder action="INSERT_OR_UPDATE">
+    <application display_value="Knowledge Management">09d836ac3b1223006fa0870044efc492</application>
+    <name/>
+    <order>1</order>
+    <sys_class_name>sys_sg_folder</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2018-12-07 17:41:55</sys_created_on>
+    <sys_id>c5d836ac3b1223006fa0870044efc493</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_name/>
+    <sys_package display_value="Knowledge Management - Mobile" source="sn_km_mobile">e1717f543b1223006fa0870044efc44a</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Knowledge Management - Mobile">e1717f543b1223006fa0870044efc44a</sys_scope>
+    <sys_update_name>sys_sg_folder_c5d836ac3b1223006fa0870044efc493</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2018-12-07 17:41:55</sys_updated_on>
+  </sys_sg_folder>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+  <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+    <application_roles/>
+    <available_offline>false</available_offline>
+    <data_item display_value="DI_Featured_Articles">5509bbe03b1223006fa0870044efc499</data_item>
+    <description>Featured Knowledge Articles</description>
+    <fetch_type>not_required</fetch_type>
+    <hidden>false</hidden>
+    <icon display_value="address-book">63b93fe03b1223006fa0870044efc4c1</icon>
+    <name>Featured Articles</name>
+    <order>30</order>
+    <parent>c5d836ac3b1223006fa0870044efc493</parent>
+    <parent_table>sys_sg_folder</parent_table>
+    <roles_override/>
+    <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2018-12-07 22:25:32</sys_created_on>
+    <sys_id>a7b9bfe03b1223006fa0870044efc431</sys_id>
+    <sys_mod_count>3</sys_mod_count>
+    <sys_name>Featured Articles</sys_name>
+    <sys_package display_value="Knowledge Management - Mobile" source="sn_km_mobile">e1717f543b1223006fa0870044efc44a</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Knowledge Management - Mobile">e1717f543b1223006fa0870044efc44a</sys_scope>
+    <sys_update_name>sys_sg_master_detail_screen_a7b9bfe03b1223006fa0870044efc431</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2018-12-07 22:29:00</sys_updated_on>
+  </sys_sg_master_detail_screen>
+  <sys_translated_text action="delete_multiple" query="documentkey=a7b9bfe03b1223006fa0870044efc431"/>
+</record_update>

@@ -1,0 +1,19 @@
+{
+   "name": "app-knowledge-mobile",
+   "version": "0.0.0",
+   "description": "Knowledge Management Mobile",
+   "scripts": {
+      "ci": "npm ci && gulp",
+      "watch": "gulp watch"
+   },
+   "devDependencies": {
+      "del": "^1.1.0",
+      "gulp": "^3.8.10",
+      "gulp-util": "^3.0.1",
+      "fs": "0.0.2",
+      "xml2js": "^0.4.4",
+      "gulp-replace": "^0.5.1",
+      "moment": "^2.9.0"
+   },
+   "dependencies": {}
+}

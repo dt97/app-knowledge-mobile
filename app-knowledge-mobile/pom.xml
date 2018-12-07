@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+        <modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.snc</groupId>
+		<artifactId>snc-app-parent</artifactId>
+		<version>2.7.0.46</version>
+	</parent>
+
+	<artifactId>app-knowledge-mobile</artifactId>
+	<description>Knowledge Management Mobile</description>
+	<version>1.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<!-- Maven release plugin needs to know where to find the source code repository -->
+	<scm>
+		<developerConnection>scm:git:${snc.git.baseurl}/app-knowledge-mobile.git</developerConnection>
+		<tag>master</tag>
+	</scm>
+
+	<properties>
+		<plugin.dir>com.sn_km_mobile</plugin.dir>
+		<jenkins.email.recipients>rajesh.kannan@servicenow.com</jenkins.email.recipients>
+	</properties>
+
+	<!-- This is needed for bootstrap -->
+	<repositories>
+		<repository>
+			<id>stable</id>
+			<url>http://nexus.proxy.devsnc.com/content/groups/stable</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
+</project>

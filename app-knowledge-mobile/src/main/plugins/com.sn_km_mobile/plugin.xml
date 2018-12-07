@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+   id="com.sn_km_mobile"
+   name="Knowledge Management - Mobile"
+   version="${project.version}"
+   provider_name="ServiceNow"
+   state="development"
+   help="CSM_Unified_Theme"
+   type="feature_set"
+   licensable="false"
+   scope_name="sn_km_mobile"
+   scope_sys_id="e1717f543b1223006fa0870044efc44a">
+
+    <requires>
+      <import plugin="com.glide.sg"/>
+    </requires>
+
+    <description>This plugin provides knowledge management mobile user experience.</description>
+
+</plugin>

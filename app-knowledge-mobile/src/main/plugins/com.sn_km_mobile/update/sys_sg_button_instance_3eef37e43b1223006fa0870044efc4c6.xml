@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+  <sys_sg_button_instance action="INSERT_OR_UPDATE">
+    <active>true</active>
+    <button display_value="View Article">b4bfb2643b5223006fa0870044efc49c</button>
+    <description/>
+    <field_name/>
+    <label>View Article</label>
+    <location>top</location>
+    <name>View Article</name>
+    <order>1</order>
+    <parent>d77fb3e43b1223006fa0870044efc408</parent>
+    <parent_table>sys_sg_details_screen</parent_table>
+    <sys_class_name>sys_sg_button_instance</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2018-12-07 22:52:30</sys_created_on>
+    <sys_id>3eef37e43b1223006fa0870044efc4c6</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_name>View Article</sys_name>
+    <sys_package display_value="Knowledge Management - Mobile" source="sn_km_mobile">e1717f543b1223006fa0870044efc44a</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Knowledge Management - Mobile">e1717f543b1223006fa0870044efc44a</sys_scope>
+    <sys_update_name>sys_sg_button_instance_3eef37e43b1223006fa0870044efc4c6</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2018-12-07 22:52:30</sys_updated_on>
+    <table/>
+  </sys_sg_button_instance>
+  <sys_translated_text action="delete_multiple" query="documentkey=3eef37e43b1223006fa0870044efc4c6"/>
+</record_update>
