@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin
    id="com.sn_km_mobile"
-   name="Knowledge Management - Mobile"
+   name="Knowledge Management - Requestor Mobile"
    version="${project.version}"
    provider_name="ServiceNow"
    state="development"
